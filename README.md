@@ -2,6 +2,7 @@
 
 🤓 Aprende a entender cómo funciona el mundo del back-end y cómo las aplicaciones web funcionan en el lado de los servidores. 🧑‍💼 Obtén una introducción a los lenguajes de programación, tecnologías y tareas que son esenciales para la construcción y el mantenimiento de la infraestructura del internet. 🤓 Conoce los fundamentos de lo que sucede detrás de escena para que puedas contribuir al desarrollo y el funcionamiento de aplicaciones y servicios en línea.
 
+
 ## Tabla de contenido
 
 - [Introducción al Desarrollo BackEnd](#introducción-al-desarrollo-backend)
@@ -50,7 +51,13 @@
 
 ## Front-End, Back-End y Full Stack
 
-Contenido de la subsección 2
+- 🖥️ **FrontEnd**: Es lo que ves y usas cuando navegas por Internet. Desarrolladores FrontEnd utilizan lenguajes de programación como HTML, CSS y JavaScript para hacer que las páginas web se vean y funcionen.
+  
+- 💾 **BackEnd**: Es lo que sucede detrás de escena cuando navegas por Internet. Desarrolladores backend utilizan lenguajes de programación como Python, Java o PHP para hacer que sucedan cosas en Internet.
+  
+- 🖥️💾 **Full Stack**: Son profesionales que saben cómo hacer tanto el FrontEnd como el backend de las páginas web y aplicaciones.
+
+<img src="./images/back-vs-front.jpeg" width="400px" align="center">
 
 # Fundamentos del Back-End
 
