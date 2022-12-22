@@ -57,7 +57,10 @@
   
 - 🖥️💾 **Full Stack**: Son profesionales que saben cómo hacer tanto el FrontEnd como el backend de las páginas web y aplicaciones.
 
-<img src="./images/back-vs-front.jpeg" width="400px" align="center">
+<p align="center">
+    <img src="./images/back-vs-front.jpeg" width="400px" />
+</p>
+
 
 # Fundamentos del Back-End
 
